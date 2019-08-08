@@ -1,0 +1,16 @@
+[
+  {
+    "text": "text",
+    "isPaymentMessage": true
+  },
+
+  {
+    "text": "text 1",
+    "isPaymentMessage": true
+  },
+
+  {
+    "text": "text 2",
+    "isPaymentMessage": true
+  }
+]

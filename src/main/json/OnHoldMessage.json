@@ -1,0 +1,16 @@
+[
+  {
+    "messageType": "messageType",
+    "action": "action"
+  },
+
+  {
+    "messageType": "messageType 1",
+    "action": "action 1"
+  },
+
+  {
+    "messageType": "messageType 2",
+    "action": "action 2"
+  }
+]
