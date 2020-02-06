@@ -7,10 +7,6 @@ version '1.0-SNAPSHOT'
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
-repositories {
-  maven { url "http://iss-nexus.dev.imsi.com/repository/maven-public/" }
-}
-
 dependencies {
 
   compile group: 'com.googlecode.json-simple', name: 'json-simple', version: '1.1'
